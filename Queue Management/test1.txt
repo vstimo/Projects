@@ -1,0 +1,104 @@
+Generated clients: 
+(id: 0, arrivalTime: 14, serviceTime: 3)
+(id: 1, arrivalTime: 23, serviceTime: 2)
+(id: 3, arrivalTime: 24, serviceTime: 3)
+(id: 2, arrivalTime: 29, serviceTime: 2)
+Current time: 0
+Queue1[]
+Queue2[]
+Current time: 1
+Queue1[]
+Queue2[]
+Current time: 2
+Queue1[]
+Queue2[]
+Current time: 3
+Queue1[]
+Queue2[]
+Current time: 4
+Queue1[]
+Queue2[]
+Current time: 5
+Queue1[]
+Queue2[]
+Current time: 6
+Queue1[]
+Queue2[]
+Current time: 7
+Queue1[]
+Queue2[]
+Current time: 8
+Queue1[]
+Queue2[]
+Current time: 9
+Queue1[]
+Queue2[]
+Current time: 10
+Queue1[]
+Queue2[]
+Current time: 11
+Queue1[]
+Queue2[]
+Current time: 12
+Queue1[]
+Queue2[]
+Current time: 13
+Queue1[]
+Queue2[]
+Current time: 14
+Queue1[(id: 0, arrivalTime: 14, serviceTime: 3)]
+Queue2[]
+Current time: 15
+Queue1[(id: 0, arrivalTime: 14, serviceTime: 2)]
+Queue2[]
+Current time: 16
+Queue1[(id: 0, arrivalTime: 14, serviceTime: 1)]
+Queue2[]
+Current time: 17
+Queue1[]
+Queue2[]
+Current time: 18
+Queue1[]
+Queue2[]
+Current time: 19
+Queue1[]
+Queue2[]
+Current time: 20
+Queue1[]
+Queue2[]
+Current time: 21
+Queue1[]
+Queue2[]
+Current time: 22
+Queue1[]
+Queue2[]
+Current time: 23
+Queue1[(id: 1, arrivalTime: 23, serviceTime: 2)]
+Queue2[]
+Current time: 24
+Queue1[(id: 1, arrivalTime: 23, serviceTime: 1)]
+Queue2[(id: 3, arrivalTime: 24, serviceTime: 3)]
+Current time: 25
+Queue1[]
+Queue2[(id: 3, arrivalTime: 24, serviceTime: 2)]
+Current time: 26
+Queue1[]
+Queue2[(id: 3, arrivalTime: 24, serviceTime: 1)]
+Current time: 27
+Queue1[]
+Queue2[]
+Current time: 28
+Queue1[]
+Queue2[]
+Current time: 29
+Queue1[(id: 2, arrivalTime: 29, serviceTime: 2)]
+Queue2[]
+Current time: 30
+Queue1[(id: 2, arrivalTime: 29, serviceTime: 1)]
+Queue2[]
+Current time: 31
+Queue1[]
+Queue2[]
+Average waiting time: 22.5
+Average service time: 2.5
+Peek hour: 24

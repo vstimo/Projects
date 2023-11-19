@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+proiect=.\proiect\proiect.adf
+[Browser]
+sort=order
+mode=asc
+[Order]
+order=1
+macro=
+[Expand]
+proiect=1

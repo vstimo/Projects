@@ -1,0 +1,5 @@
+MESSAGE "File: c:\Users\freez\OneDrive\Desktop\POLI STUFF\SEM II\PSN_PROIECT\proiect\proiect\src\principal.vhd" 
+MESSAGE "Compile Entity "principal"" 
+MESSAGE "Entity `principal' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "principal" of Entity "principal"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

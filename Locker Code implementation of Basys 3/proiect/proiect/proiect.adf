@@ -1,0 +1,64 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=proiect
+
+[Library]
+proiect=.\proiect.lib
+
+[$LibMap$]
+proiect=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=numarator4|numarator4|0                      
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/principal.vhd=-1
+/afisor.vhd=-1
+/hex7seg.vhd=-1
+/registru.vhd=-1
+/Caractere_distincte.vhd=-1
+/debouncer.vhd=-1
+/divizor4.vhd=-1
+/numarator4.vhd=-1
+/comparator_cifre.vhd=-1
+/divizor.vhd=-1
+/numarator16.vhd=-1
+/bistabil_D.vhd=-1
+/divizorD.vhd=-1
+
+[Files.Data]
+.\src\principal.vhd=VHDL Source Code
+.\src\afisor.vhd=VHDL Source Code
+.\src\hex7seg.vhd=VHDL Source Code
+.\src\registru.vhd=VHDL Source Code
+.\src\Caractere_distincte.vhd=VHDL Source Code
+.\src\debouncer.vhd=VHDL Source Code
+.\src\divizor4.vhd=VHDL Source Code
+.\src\numarator4.vhd=VHDL Source Code
+.\src\comparator_cifre.vhd=VHDL Source Code
+.\src\divizor.vhd=VHDL Source Code
+.\src\numarator16.vhd=VHDL Source Code
+.\src\bistabil_D.vhd=VHDL Source Code
+.\src\divizorD.vhd=VHDL Source Code
+

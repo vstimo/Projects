@@ -1,0 +1,14 @@
+i<>.\src\registru.vhd
+i<>.\src\numarator_modulo4.vhd
+i<>.\src\Caractere_distincte.vhd
+i<>.\src\afisor.vhd
+i<>.\src\hex7seg.vhd
+i<>.\src\debouncer.vhd
+i<>.\src\numarator4.vhd
+i<>.\src\divizor.vhd
+i<>.\src\comparator_cifre.vhd
+i<>.\src\numarator16.vhd
+i<>.\src\divizor4.vhd
+i<>.\src\principal.vhd
+i<>.\src\bistabil_D.vhd
+i<>.\src\divizorD.vhd

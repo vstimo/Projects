@@ -1,0 +1,318 @@
+Generated clients: 
+(id: 0, arrivalTime: 3, serviceTime: 2)
+(id: 45, arrivalTime: 4, serviceTime: 1)
+(id: 9, arrivalTime: 5, serviceTime: 5)
+(id: 24, arrivalTime: 5, serviceTime: 2)
+(id: 12, arrivalTime: 7, serviceTime: 2)
+(id: 30, arrivalTime: 7, serviceTime: 3)
+(id: 31, arrivalTime: 7, serviceTime: 4)
+(id: 3, arrivalTime: 8, serviceTime: 6)
+(id: 19, arrivalTime: 8, serviceTime: 1)
+(id: 29, arrivalTime: 8, serviceTime: 6)
+(id: 41, arrivalTime: 9, serviceTime: 5)
+(id: 36, arrivalTime: 11, serviceTime: 5)
+(id: 15, arrivalTime: 12, serviceTime: 1)
+(id: 21, arrivalTime: 12, serviceTime: 3)
+(id: 26, arrivalTime: 12, serviceTime: 5)
+(id: 28, arrivalTime: 14, serviceTime: 6)
+(id: 38, arrivalTime: 15, serviceTime: 2)
+(id: 27, arrivalTime: 16, serviceTime: 6)
+(id: 6, arrivalTime: 17, serviceTime: 3)
+(id: 40, arrivalTime: 19, serviceTime: 3)
+(id: 13, arrivalTime: 20, serviceTime: 3)
+(id: 39, arrivalTime: 21, serviceTime: 4)
+(id: 46, arrivalTime: 21, serviceTime: 4)
+(id: 16, arrivalTime: 24, serviceTime: 1)
+(id: 5, arrivalTime: 25, serviceTime: 5)
+(id: 17, arrivalTime: 25, serviceTime: 3)
+(id: 33, arrivalTime: 25, serviceTime: 1)
+(id: 37, arrivalTime: 25, serviceTime: 6)
+(id: 48, arrivalTime: 25, serviceTime: 1)
+(id: 1, arrivalTime: 27, serviceTime: 2)
+(id: 2, arrivalTime: 27, serviceTime: 1)
+(id: 10, arrivalTime: 27, serviceTime: 3)
+(id: 14, arrivalTime: 27, serviceTime: 5)
+(id: 23, arrivalTime: 28, serviceTime: 6)
+(id: 34, arrivalTime: 28, serviceTime: 3)
+(id: 44, arrivalTime: 28, serviceTime: 1)
+(id: 32, arrivalTime: 31, serviceTime: 4)
+(id: 35, arrivalTime: 31, serviceTime: 1)
+(id: 47, arrivalTime: 31, serviceTime: 4)
+(id: 8, arrivalTime: 33, serviceTime: 1)
+(id: 11, arrivalTime: 33, serviceTime: 3)
+(id: 18, arrivalTime: 34, serviceTime: 1)
+(id: 4, arrivalTime: 35, serviceTime: 1)
+(id: 7, arrivalTime: 35, serviceTime: 6)
+(id: 25, arrivalTime: 35, serviceTime: 3)
+(id: 42, arrivalTime: 35, serviceTime: 5)
+(id: 20, arrivalTime: 36, serviceTime: 5)
+(id: 49, arrivalTime: 36, serviceTime: 4)
+(id: 22, arrivalTime: 38, serviceTime: 2)
+(id: 43, arrivalTime: 39, serviceTime: 3)
+Current time: 0
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 1
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 2
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 3
+Queue1[(id: 0, arrivalTime: 3, serviceTime: 2)]
+Queue2[]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 4
+Queue1[(id: 0, arrivalTime: 3, serviceTime: 1)]
+Queue2[(id: 45, arrivalTime: 4, serviceTime: 1)]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 5
+Queue1[(id: 9, arrivalTime: 5, serviceTime: 5)]
+Queue2[(id: 24, arrivalTime: 5, serviceTime: 2)]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 6
+Queue1[(id: 9, arrivalTime: 5, serviceTime: 4)]
+Queue2[(id: 24, arrivalTime: 5, serviceTime: 1)]
+Queue3[]
+Queue4[]
+Queue5[]
+Current time: 7
+Queue1[(id: 9, arrivalTime: 5, serviceTime: 3)]
+Queue2[(id: 12, arrivalTime: 7, serviceTime: 2)]
+Queue3[(id: 30, arrivalTime: 7, serviceTime: 3)]
+Queue4[(id: 31, arrivalTime: 7, serviceTime: 4)]
+Queue5[]
+Current time: 8
+Queue1[(id: 9, arrivalTime: 5, serviceTime: 2), (id: 29, arrivalTime: 8, serviceTime: 6)]
+Queue2[(id: 12, arrivalTime: 7, serviceTime: 1), (id: 19, arrivalTime: 8, serviceTime: 1)]
+Queue3[(id: 30, arrivalTime: 7, serviceTime: 2)]
+Queue4[(id: 31, arrivalTime: 7, serviceTime: 3)]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 6)]
+Current time: 9
+Queue1[(id: 9, arrivalTime: 5, serviceTime: 1), (id: 29, arrivalTime: 8, serviceTime: 6)]
+Queue2[(id: 19, arrivalTime: 8, serviceTime: 1), (id: 41, arrivalTime: 9, serviceTime: 5)]
+Queue3[(id: 30, arrivalTime: 7, serviceTime: 1)]
+Queue4[(id: 31, arrivalTime: 7, serviceTime: 2)]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 5)]
+Current time: 10
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 6)]
+Queue2[(id: 41, arrivalTime: 9, serviceTime: 5)]
+Queue3[]
+Queue4[(id: 31, arrivalTime: 7, serviceTime: 1)]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 4)]
+Current time: 11
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 5)]
+Queue2[(id: 41, arrivalTime: 9, serviceTime: 4)]
+Queue3[(id: 36, arrivalTime: 11, serviceTime: 5)]
+Queue4[]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 3)]
+Current time: 12
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 4)]
+Queue2[(id: 41, arrivalTime: 9, serviceTime: 3)]
+Queue3[(id: 36, arrivalTime: 11, serviceTime: 4)]
+Queue4[(id: 15, arrivalTime: 12, serviceTime: 1), (id: 21, arrivalTime: 12, serviceTime: 3)]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 2), (id: 26, arrivalTime: 12, serviceTime: 5)]
+Current time: 13
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 3)]
+Queue2[(id: 41, arrivalTime: 9, serviceTime: 2)]
+Queue3[(id: 36, arrivalTime: 11, serviceTime: 3)]
+Queue4[(id: 21, arrivalTime: 12, serviceTime: 3)]
+Queue5[(id: 3, arrivalTime: 8, serviceTime: 1), (id: 26, arrivalTime: 12, serviceTime: 5)]
+Current time: 14
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 2)]
+Queue2[(id: 41, arrivalTime: 9, serviceTime: 1), (id: 28, arrivalTime: 14, serviceTime: 6)]
+Queue3[(id: 36, arrivalTime: 11, serviceTime: 2)]
+Queue4[(id: 21, arrivalTime: 12, serviceTime: 2)]
+Queue5[(id: 26, arrivalTime: 12, serviceTime: 5)]
+Current time: 15
+Queue1[(id: 29, arrivalTime: 8, serviceTime: 1), (id: 38, arrivalTime: 15, serviceTime: 2)]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 6)]
+Queue3[(id: 36, arrivalTime: 11, serviceTime: 1)]
+Queue4[(id: 21, arrivalTime: 12, serviceTime: 1)]
+Queue5[(id: 26, arrivalTime: 12, serviceTime: 4)]
+Current time: 16
+Queue1[(id: 38, arrivalTime: 15, serviceTime: 2)]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 5)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 6)]
+Queue4[]
+Queue5[(id: 26, arrivalTime: 12, serviceTime: 3)]
+Current time: 17
+Queue1[(id: 38, arrivalTime: 15, serviceTime: 1)]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 4)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 5)]
+Queue4[(id: 6, arrivalTime: 17, serviceTime: 3)]
+Queue5[(id: 26, arrivalTime: 12, serviceTime: 2)]
+Current time: 18
+Queue1[]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 3)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 4)]
+Queue4[(id: 6, arrivalTime: 17, serviceTime: 2)]
+Queue5[(id: 26, arrivalTime: 12, serviceTime: 1)]
+Current time: 19
+Queue1[(id: 40, arrivalTime: 19, serviceTime: 3)]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 2)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 3)]
+Queue4[(id: 6, arrivalTime: 17, serviceTime: 1)]
+Queue5[]
+Current time: 20
+Queue1[(id: 40, arrivalTime: 19, serviceTime: 2)]
+Queue2[(id: 28, arrivalTime: 14, serviceTime: 1)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 2)]
+Queue4[(id: 13, arrivalTime: 20, serviceTime: 3)]
+Queue5[]
+Current time: 21
+Queue1[(id: 40, arrivalTime: 19, serviceTime: 1)]
+Queue2[(id: 39, arrivalTime: 21, serviceTime: 4)]
+Queue3[(id: 27, arrivalTime: 16, serviceTime: 1)]
+Queue4[(id: 13, arrivalTime: 20, serviceTime: 2)]
+Queue5[(id: 46, arrivalTime: 21, serviceTime: 4)]
+Current time: 22
+Queue1[]
+Queue2[(id: 39, arrivalTime: 21, serviceTime: 3)]
+Queue3[]
+Queue4[(id: 13, arrivalTime: 20, serviceTime: 1)]
+Queue5[(id: 46, arrivalTime: 21, serviceTime: 3)]
+Current time: 23
+Queue1[]
+Queue2[(id: 39, arrivalTime: 21, serviceTime: 2)]
+Queue3[]
+Queue4[]
+Queue5[(id: 46, arrivalTime: 21, serviceTime: 2)]
+Current time: 24
+Queue1[(id: 16, arrivalTime: 24, serviceTime: 1)]
+Queue2[(id: 39, arrivalTime: 21, serviceTime: 1)]
+Queue3[]
+Queue4[]
+Queue5[(id: 46, arrivalTime: 21, serviceTime: 1)]
+Current time: 25
+Queue1[(id: 5, arrivalTime: 25, serviceTime: 5)]
+Queue2[(id: 17, arrivalTime: 25, serviceTime: 3)]
+Queue3[(id: 33, arrivalTime: 25, serviceTime: 1)]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 6)]
+Queue5[(id: 48, arrivalTime: 25, serviceTime: 1)]
+Current time: 26
+Queue1[(id: 5, arrivalTime: 25, serviceTime: 4)]
+Queue2[(id: 17, arrivalTime: 25, serviceTime: 2)]
+Queue3[]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 5)]
+Queue5[]
+Current time: 27
+Queue1[(id: 5, arrivalTime: 25, serviceTime: 3)]
+Queue2[(id: 17, arrivalTime: 25, serviceTime: 1), (id: 10, arrivalTime: 27, serviceTime: 3)]
+Queue3[(id: 1, arrivalTime: 27, serviceTime: 2)]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 4)]
+Queue5[(id: 2, arrivalTime: 27, serviceTime: 1), (id: 14, arrivalTime: 27, serviceTime: 5)]
+Current time: 28
+Queue1[(id: 5, arrivalTime: 25, serviceTime: 2), (id: 34, arrivalTime: 28, serviceTime: 3)]
+Queue2[(id: 10, arrivalTime: 27, serviceTime: 3), (id: 44, arrivalTime: 28, serviceTime: 1)]
+Queue3[(id: 1, arrivalTime: 27, serviceTime: 1), (id: 23, arrivalTime: 28, serviceTime: 6)]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 3)]
+Queue5[(id: 14, arrivalTime: 27, serviceTime: 5)]
+Current time: 29
+Queue1[(id: 5, arrivalTime: 25, serviceTime: 1), (id: 34, arrivalTime: 28, serviceTime: 3)]
+Queue2[(id: 10, arrivalTime: 27, serviceTime: 2), (id: 44, arrivalTime: 28, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 6)]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 2)]
+Queue5[(id: 14, arrivalTime: 27, serviceTime: 4)]
+Current time: 30
+Queue1[(id: 34, arrivalTime: 28, serviceTime: 3)]
+Queue2[(id: 10, arrivalTime: 27, serviceTime: 1), (id: 44, arrivalTime: 28, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 5)]
+Queue4[(id: 37, arrivalTime: 25, serviceTime: 1)]
+Queue5[(id: 14, arrivalTime: 27, serviceTime: 3)]
+Current time: 31
+Queue1[(id: 34, arrivalTime: 28, serviceTime: 2), (id: 47, arrivalTime: 31, serviceTime: 4)]
+Queue2[(id: 44, arrivalTime: 28, serviceTime: 1), (id: 35, arrivalTime: 31, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 4)]
+Queue4[(id: 32, arrivalTime: 31, serviceTime: 4)]
+Queue5[(id: 14, arrivalTime: 27, serviceTime: 2)]
+Current time: 32
+Queue1[(id: 34, arrivalTime: 28, serviceTime: 1), (id: 47, arrivalTime: 31, serviceTime: 4)]
+Queue2[(id: 35, arrivalTime: 31, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 3)]
+Queue4[(id: 32, arrivalTime: 31, serviceTime: 3)]
+Queue5[(id: 14, arrivalTime: 27, serviceTime: 1)]
+Current time: 33
+Queue1[(id: 47, arrivalTime: 31, serviceTime: 4)]
+Queue2[(id: 8, arrivalTime: 33, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 2)]
+Queue4[(id: 32, arrivalTime: 31, serviceTime: 2)]
+Queue5[(id: 11, arrivalTime: 33, serviceTime: 3)]
+Current time: 34
+Queue1[(id: 47, arrivalTime: 31, serviceTime: 3)]
+Queue2[(id: 18, arrivalTime: 34, serviceTime: 1)]
+Queue3[(id: 23, arrivalTime: 28, serviceTime: 1)]
+Queue4[(id: 32, arrivalTime: 31, serviceTime: 1)]
+Queue5[(id: 11, arrivalTime: 33, serviceTime: 2)]
+Current time: 35
+Queue1[(id: 47, arrivalTime: 31, serviceTime: 2)]
+Queue2[(id: 4, arrivalTime: 35, serviceTime: 1), (id: 42, arrivalTime: 35, serviceTime: 5)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 6)]
+Queue4[(id: 25, arrivalTime: 35, serviceTime: 3)]
+Queue5[(id: 11, arrivalTime: 33, serviceTime: 1)]
+Current time: 36
+Queue1[(id: 47, arrivalTime: 31, serviceTime: 1), (id: 49, arrivalTime: 36, serviceTime: 4)]
+Queue2[(id: 42, arrivalTime: 35, serviceTime: 5)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 5)]
+Queue4[(id: 25, arrivalTime: 35, serviceTime: 2)]
+Queue5[(id: 20, arrivalTime: 36, serviceTime: 5)]
+Current time: 37
+Queue1[(id: 49, arrivalTime: 36, serviceTime: 4)]
+Queue2[(id: 42, arrivalTime: 35, serviceTime: 4)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 4)]
+Queue4[(id: 25, arrivalTime: 35, serviceTime: 1)]
+Queue5[(id: 20, arrivalTime: 36, serviceTime: 4)]
+Current time: 38
+Queue1[(id: 49, arrivalTime: 36, serviceTime: 3)]
+Queue2[(id: 42, arrivalTime: 35, serviceTime: 3)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 3)]
+Queue4[(id: 22, arrivalTime: 38, serviceTime: 2)]
+Queue5[(id: 20, arrivalTime: 36, serviceTime: 3)]
+Current time: 39
+Queue1[(id: 49, arrivalTime: 36, serviceTime: 2)]
+Queue2[(id: 42, arrivalTime: 35, serviceTime: 2)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 2)]
+Queue4[(id: 22, arrivalTime: 38, serviceTime: 1), (id: 43, arrivalTime: 39, serviceTime: 3)]
+Queue5[(id: 20, arrivalTime: 36, serviceTime: 2)]
+Current time: 40
+Queue1[(id: 49, arrivalTime: 36, serviceTime: 1)]
+Queue2[(id: 42, arrivalTime: 35, serviceTime: 1)]
+Queue3[(id: 7, arrivalTime: 35, serviceTime: 1)]
+Queue4[(id: 43, arrivalTime: 39, serviceTime: 3)]
+Queue5[(id: 20, arrivalTime: 36, serviceTime: 1)]
+Current time: 41
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[(id: 43, arrivalTime: 39, serviceTime: 2)]
+Queue5[]
+Current time: 42
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[(id: 43, arrivalTime: 39, serviceTime: 1)]
+Queue5[]
+Current time: 43
+Queue1[]
+Queue2[]
+Queue3[]
+Queue4[]
+Queue5[]
+Average waiting time: 21.68
+Average service time: 3.26
+Peek hour: 8

@@ -1,0 +1,9 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/principal.vhd
+# Compile...
+# File: c:\Users\freez\OneDrive\Desktop\POLI STUFF\SEM II\PSN_PROIECT\proiect\proiect\src\principal.vhd
+# Compile Entity "principal"
+# Entity `principal' has been skipped - no difference detected.
+# Compile Architecture "principal" of Entity "principal"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
