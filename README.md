@@ -27,7 +27,7 @@ Hi! Feel free to explore a selection of projects I completed during my universit
          📘 Data base with PHP, HTML & CSS
         </a>
       </li>
-     </ul>>
+     </ul>
   </li>
     
   <li>:open_file_folder: Java
