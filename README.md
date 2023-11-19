@@ -10,6 +10,8 @@ Hi! Feel free to explore a selection of projects I completed during my universit
           :orange_book: Automation of Light and Sound System in a house
         </a>
       </li>
+    </ul>
+  </li>
         
   <li>:open_file_folder: FPGA
     <ul>
