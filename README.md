@@ -7,7 +7,7 @@ Hi! Feel free to explore a selection of projects I completed during my universit
     <ul>
       <li>
         <a href="https://github.com/vstimo/Projects/tree/master/Automation%20of%20Light%20and%20Sound%20System%20in%20a%20house">
-          :orange_book: Automation of Light and Sound System in a house
+             :orange_book: Automation of Light in a Bulding
         </a>
       </li>
     </ul>
@@ -19,13 +19,18 @@ Hi! Feel free to explore a selection of projects I completed during my universit
         <a href="https://github.com/vstimo/Projects/tree/master/Locker%20Code%20implementation%20of%20Basys%203">
           📗 Locker Code implementation on Basys 3
         </a>
-      </li>     
+      </li>
+       <li>
+        <a href="https://github.com/vstimo/Projects/tree/master/Commands%20to%20a%20FPGA%20device">
+          📗 Commands to a FPGA device
+        </a>
+      </li>
     </ul>
     
   <li>:open_file_folder: MySQL
      <ul>
       <li>
-        <a href=https://github.com/vstimo/Projects/tree/master/MySQL%2C%20PHP%20%26%20HTML%20project">
+        <a href="https://github.com/vstimo/Projects/tree/master/MySQL%2C%20PHP%20%26%20HTML%20project">
          📘 Data base with PHP, HTML & CSS
         </a>
       </li>
@@ -49,4 +54,19 @@ Hi! Feel free to explore a selection of projects I completed during my universit
         📓 Polynomial Calculator
         </a>
       </li>
+       <li>
+        <a href="https://github.com/vstimo/Projects/tree/master/MafiaGame">
+        📓 Mafia Game
+        </a>
+      </li>
     </ul>
+
+   <li>:open_file_folder: OpenGL
+     <ul>
+      <li>
+        <a href="https://github.com/vstimo/Projects/tree/master/3D%20Scene%20Game%20OpenGL">
+         📘 3D Scene Game with OpenGL
+        </a>
+      </li>
+     </ul>
+  </li>
