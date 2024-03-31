@@ -75,7 +75,7 @@ Hi! Feel free to explore a selection of projects I completed during my universit
      <ul>
       <li>
         <a href="https://github.com/vstimo/Projects/tree/master/Zoo%20Management">
-         :red_book: Zoo Management
+         📙: Zoo Management
         </a>
       </li>
      </ul>
