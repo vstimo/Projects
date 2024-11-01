@@ -1,0 +1,76 @@
+#version: '3.3'
+
+networks:
+  backend:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.18.0.0/24  # Define the subnet
+
+services:
+  persons_db:
+    container_name: persons_db
+    image: 'postgres'
+    ports:
+      - "1234:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=persons_db
+    volumes:
+      - C:\volumes\sd\postgres\persons_db:/var/lib/postgresql/data/
+    networks:
+      - backend
+
+  devices_db:
+    container_name: devices_db
+    image: 'postgres'
+    ports:
+      - "1235:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=devices_db
+    volumes:
+      - C:\volumes\sd\postgres\devices_db:/var/lib/postgresql/data/
+    networks:
+      - backend
+
+  client_app:
+    container_name: client_app
+    hostname: client_app
+    build: client-App/
+    environment:
+      - OTHER_SERVICE_URL=http://device_app:8080
+    ports: 
+      - "8081:8080" 
+    depends_on:
+      - persons_db
+    restart: always
+    networks:
+      backend:
+        ipv4_address: 172.18.0.4
+
+  device_app:
+    container_name: device_app
+    hostname: device_app
+    build: device-App/
+    ports: 
+      - "8082:8080" 
+    depends_on:
+      - devices_db   
+    restart: always
+    networks:
+      backend:
+        ipv4_address: 172.18.0.5
+
+  nginx-react:
+    container_name: ngixreactapp
+    build: react-demo/
+    ports:
+      - 80:80
+    environment:
+      NODE_ENV: production
+    networks:
+      backend:
+        ipv4_address: 172.18.0.10
