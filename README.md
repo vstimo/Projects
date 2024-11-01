@@ -27,34 +27,14 @@ Hi! Feel free to explore a selection of projects I completed during my universit
       </li>
     </ul>
     
-  <li>:open_file_folder: MySQL
-     <ul>
-      <li>
-        <a href="https://github.com/vstimo/Projects/tree/master/MySQL%2C%20PHP%20%26%20HTML%20project">
-         📘 Data base with PHP, HTML & CSS
-        </a>
-      </li>
-     </ul>
-  </li>
-    
-  <li>:open_file_folder: Java
+  <li>:open_file_folder: Java & Web Development
     <ul>
       <li>
-        <a href="https://github.com/vstimo/Projects/tree/master/Orders%20Management">
-        📓 Orders Management
+        <a href="https://github.com/vstimo/Projects/tree/master/Energy%20Management%20System">
+        📓 Energy Management System
         </a>
       </li> 
-       <li>
-        <a href="https://github.com/vstimo/Projects/tree/master/Queue%20Management">
-        📓 Queue Management
-        </a>
-      </li>
       <li>
-        <a href="https://github.com/vstimo/Projects/tree/master/Polynomial%20Calculator">
-        📓 Polynomial Calculator
-        </a>
-      </li>
-       <li>
         <a href="https://github.com/vstimo/Projects/tree/master/MafiaGame">
         📓 Mafia Game
         </a>
