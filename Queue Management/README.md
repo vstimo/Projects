@@ -1,1 +1,0 @@
-Queue Manangement of clients
